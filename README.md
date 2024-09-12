@@ -12,10 +12,6 @@ JokeApp is a .NET MAUI application that brings laughter to your fingertips! This
 - React to jokes with emojis
 - Cross-platform compatibility (iOS, Android, Windows)
 
-## Screenshots
-
-[Insert screenshots of your app here]
-
 ## Technologies Used
 
 - .NET MAUI
